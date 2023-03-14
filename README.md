@@ -1,1 +1,1 @@
-site web realisé par le framework laravel qui sert a gerer les adherent les evenements d une association
+site web réalisé par le framework laravel qui sert à gerer les adhérents, les événements, les taches attribuées pour chaque adhérents et les utilisateurs d'une association
